@@ -6,8 +6,4 @@ Curriculum developed with the goal to start understand the technology HTML and C
 
 ## Deployment
 
-To deploy this project run
-
-```bash
-  https://curriculum-github-io.vercel.app/
-```
+![Curriculum Vitae](https://curriculum-github-io.vercel.app/)
